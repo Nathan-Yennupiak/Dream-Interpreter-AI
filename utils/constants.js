@@ -14,7 +14,7 @@ At the end of every interpretation, always remind the user:
 `;
 
 const CLOSING_MESSAGE =
-  '🛐 Though the interpretation of your dream is relevant, as a believer, you still need to pray for the Holy Spirit’s guidance to receive divine confirmation and wisdom. Bless your heart ❤️😊';
+  '🛐 Though this interpretation of your dream is relevant, as a believer, you still need to pray for the Holy Spirit’s guidance to receive divine confirmation and wisdom. Bless your heart ❤️😊';
 
 
 module.exports = { DREAM_PROMPT, CLOSING_MESSAGE, };
