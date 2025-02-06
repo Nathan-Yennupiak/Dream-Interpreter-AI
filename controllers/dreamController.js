@@ -18,7 +18,7 @@ const interpretDream = async (req, res) => {
     res.status(200).json({
       interpretation,
       reminder: CLOSING_MESSAGE,
-      Author: 'Nathan Yennupiak',
+      Author: 'Rev.Nathan Yennupiak from Uncommon Advantage',
     });
   } catch (error) {
     console.error('Azure OpenAI Error:', error);
